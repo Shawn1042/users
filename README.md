@@ -27,6 +27,8 @@ const userDirectoryManager = new UserDirectoryManager({
     displaySelector: '#userTable tbody',
     filterSelector: '#filterUsers',
 });
+
+Project hosted via Vercel - https://users-gold.vercel.app/
 Dependencies
 The project uses pure HTML, CSS, and JavaScript. No external libraries or frameworks are required.
 
